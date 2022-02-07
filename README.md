@@ -50,7 +50,7 @@
 
 ---
 
-1. open the repo and navigate to the CLI and input "Node app.js"
+1. open the repo and navigate to the CLI and input "index.js"
 
 <br>
 
