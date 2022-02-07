@@ -6,11 +6,11 @@
 
 A generator that creates a **README.md** which is programmed for the user
 
-- I created this CLI application for user's ineed of a professional resume
+- I created this CLI application for user's ineed of a professional README
 
 - It solves the dilemma of making your own README
 
-- I've learned more ES6 syntax, how to use node.js and npm & expanded my knowledge of CLI capabilities
+- With this project I've learned more ES6 syntax, how to use node.js and npm & expanded my knowledge of CLI capabilities
 
 ## Installation
 
